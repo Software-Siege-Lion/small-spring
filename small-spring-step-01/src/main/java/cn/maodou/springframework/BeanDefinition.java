@@ -1,8 +1,5 @@
-package cn.bugstack.springframework;
+package cn.maodou.springframework;
 
-/**
- * 作者：DerekYRC https://github.com/DerekYRC/mini-spring
- */
 public class BeanDefinition {
 
     private Object bean;

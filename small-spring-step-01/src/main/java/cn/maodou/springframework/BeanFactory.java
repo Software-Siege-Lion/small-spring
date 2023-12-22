@@ -1,11 +1,8 @@
-package cn.bugstack.springframework;
+package cn.maodou.springframework;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
-/**
- * 作者：DerekYRC https://github.com/DerekYRC/mini-spring
- */
 public class BeanFactory {
 
     private Map<String, BeanDefinition> beanDefinitionMap = new ConcurrentHashMap<>();
